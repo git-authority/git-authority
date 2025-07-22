@@ -2,7 +2,7 @@
   Hi, I'm Abhrasnata Ray 👋<br><br>
   💻 Budding developer from Kolkata, India<br>
   🌐 Passionate about full stack development<br>
-  ⚛️ Currently learning React.js, TypeScript & DSA (Java)<br>
+  ⚛️ Currently learning React.js & DSA (Java)<br>
   🧠 Enjoy solving complex problems and exploring new technologies<br>
   🤖 Curious about Machine Learning
 </h3>
